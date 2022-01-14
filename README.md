@@ -29,3 +29,7 @@ KT
 Output
 Most naughty – KT
 Least naughty - Jack
+
+------------------------------------------------------------------------------
+Solution file:
+find_naughty_candidate.py
